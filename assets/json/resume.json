@@ -62,32 +62,32 @@
   ],
   "certifications": [
     {
-      "name": "SANS GIAC Certified Intrusion Analyst (GCIA) - Expired",
-      "date": "2017-01-27",
+      "name": "GIAC Certified Intrusion Analyst (GCIA)",
+      "date": "2017 (Expired)",
       "issuer": "SANS",
       "url": "https://www.giac.org/certifications/certified-intrusion-analyst-gcia/",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "GIAC Certified Incident Handler (GCIH) - Expired",
-      "date": "2016-04-26",
+      "name": "GIAC Certified Incident Handler (GCIH)",
+      "date": "2016 (Expired)",
       "issuer": "SANS",
       "url": "https://www.giac.org/certification/certified-incident-handler-gcih",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "GIAC Security Essentials (GSEC) - Expired",
-      "date": "2012-03-08",
+      "name": "GIAC Security Essentials (GSEC)",
+      "date": "2012 (Expired)",
       "issuer": "SANS",
       "url": "https://www.giac.org/certification/security-essentials-gsec",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "SIX Sigma White Belt",
-      "date": "2019-10-01",
+      "date": "2019",
       "issuer": "The Council for Six Sigma Certification",
       "url": "https://www.google.com/search?q=six+sigma+white+bet&oq=six+sigma+white+bet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQyMjlqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8#:~:text=Six%20Sigma%20White%20Belt%20Certification,six%2Dsigma%2Dwhite%2Dbelt%2Dc...",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "publications": [
@@ -112,12 +112,12 @@
   ],
   "military": [
     {
-      "institution": "Illinois Army National Guard",
+      "branch": "Illinois Army National Guard",
       "location": "Elgin, Illinois",
       "url": "https://www.il.ngb.army.mil/Organizations/Army-National-Guard/",
       "mos": "11B",
       "rank": "Sergeant (E-5)",
-      "discharge type": "Honorable",
+      "discharge": "Honorable",
       "startDate": "1988",
       "endDate": "1994",
       "courses": "Army Primary Leadership Development Course (PLDC)"
