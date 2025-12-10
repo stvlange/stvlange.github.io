@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-strategies-for-combating-cloud-security-risks-hackernoon",
+        },{id: "post-the-modern-web-nightmare",
+        
+          title: "The Modern Web Nightmare",
+        
+        description: "An exploration of the modern nightmare that web browsing has become",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/The-Modern-Web-Nightmare/";
+          
+        },
+      },{id: "post-strategies-for-combating-cloud-security-risks-hackernoon",
         
           title: 'Strategies for Combating Cloud Security Risks | HackerNoon <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
