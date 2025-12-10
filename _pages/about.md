@@ -7,7 +7,7 @@ subtitle: Security Architect, Dad, Dude & Dreamer...
 profile:
   align: right
   image: stephen_lange_square.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>stvlange@gmail.com</p>
 

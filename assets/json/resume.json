@@ -62,22 +62,22 @@
   ],
   "certifications": [
     {
-      "name": "GIAC Certified Intrusion Analyst (GCIA)",
-      "date": "2017 (Expired)",
+      "name": "GIAC Certified Intrusion Analyst (Expired)",
+      "date": "2017",
       "issuer": "SANS",
       "url": "https://www.giac.org/certifications/certified-intrusion-analyst-gcia/",
       "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "GIAC Certified Incident Handler (GCIH)",
-      "date": "2016 (Expired)",
+      "name": "GIAC Certified Incident Handler (Expired)",
+      "date": "2016",
       "issuer": "SANS",
       "url": "https://www.giac.org/certification/certified-incident-handler-gcih",
       "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "GIAC Security Essentials (GSEC)",
-      "date": "2012 (Expired)",
+      "name": "GIAC Security Essentials (Expired)",
+      "date": "2012",
       "issuer": "SANS",
       "url": "https://www.giac.org/certification/security-essentials-gsec",
       "icon": "fa-solid fa-certificate"
