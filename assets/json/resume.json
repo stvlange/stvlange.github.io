@@ -101,12 +101,12 @@
       "area": "English",
       "studyType": "BS",
       "startDate": "1988",
-      "endDate": "1992",
+      "endDate": "1992"
     }
   ],
   "military": [
     {
-      "institution": "Illinois Army National Guard",
+      "branch": "Illinois Army National Guard",
       "location": "Elgin, Illinois",
       "url": "https://www.il.ngb.army.mil/Organizations/Army-National-Guard/",
       "mos": "11B",
@@ -114,7 +114,7 @@
       "discharge type": "Honorable",
       "startDate": "1988",
       "endDate": "1994",
-      "courses": ["Army Primary Leadership Development Course (PLDC)"]
+      "courses": "Army Primary Leadership Development Course (PLDC)"
     }
   ],
   "volunteer": [
