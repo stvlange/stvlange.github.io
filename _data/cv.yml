@@ -2,55 +2,52 @@
   type: map
   contents:
     - name: Full Name
-      value: Stephen L. lange
+      value: Albert Einstein
     - name: Date of Birth
-      value: 22nd November 1969
+      value: 14th March 1879
     - name: Languages
-      value: English
-    - name: About
-      value: A security professional with extensive security architecture, engineering, administration, and management experience. A leader in designing and delivering targeted IT solutions capable of meeting business needs while staying within budgetary & time constraints. A skilled problem solver and decision-maker, team player, and self-starter with a passion for technology. 
+      value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
+
 - title: Experience
   type: time_table
   contents:
-    - title: Director Principal Architect (Security)
-      company: CME Group
-      year: 2025-Present
-    - title: Security Architect
-      company: CME Group
-      year: 2014-2025
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - As a CME Group Infrastructure Security Architect, I provide leadership on security subject matter through design & delivery of integrated solution architectures and development of standards and reference architectures. 
-        - As a Security Architect, I participate in all functions related to Infrastructure Security Architecture, including infrastructure security strategy and roadmap planning, acting as a security liaison to the business, and helping to facilitate demand management.
-        - In my role as a Security Architect, I provide a high level of technical expertise in multiple disciplines within Infrastructure and Information Security, including networking, virtualization, identity and access management, directory services, cloud computing, databases, a basic understanding of security and regulatory frameworks (CIS, NIST, RegSCI, HIPAA, etc.), security stack technologies (IDS/IPS, SIEM, etc.) among other disciplines.  
-        - In addition, I provide security mentorship, offer security design guidance and consultation services to drive change and support the evolution of security at CME Group.  As a Global Information Security team (GIS) leader, I engage with and support other leaders across GIS and Technology to ensure the timely delivery of security and business solutions. Daily responsibilities include:
-            - Actively lead the creation and updating of standards and reference architectures to meet CME regulatory requirements (standards) and provide direction and guidance on proper compliance with these defined standards (reference architectures
-            - Performing infrastructure assessments and making design change recommendations that provide risk remediation and proper design, structure, and implementation recommendations. 
-            - Assist in planning the remediation of assessment, audit, and regulatory findings
-            - Assisting with demand forecasting for Infrastructure Architecture services by meeting with CME business units to better understand their needs. Aid in the determination of necessary resource levels to support those business units’ needs
-            - Communicate and collaborate with cross-functional peers outside of the Technology Division, including General Counsel, Records Retention, Global Assurance, Enterprise Risk Management, Third-Party Risk Management, and other business unit leadership
-            - Drive objectivity and build consensus among internal and external stakeholders with widely divergent perspectives and drivers
-            - Interact with industry peers from other systemically important financial market utility (SIFMU) organizations, research organizations, solution providers, etc.
-            - Participate in and contribute to key working groups across the enterprise, including but not limited to: Architecture Review Board and/or change advisory boards. Prepare reports for senior management including presentations, metrics, and other documentation required to support governance functions.
-            - Assist with the continuous improvement and maturation of the methods, instrumentation, training, documentation, and processes required to properly assess and govern Infrastructure architecture and the software development lifecycle
-            - Participate in the development of the security roadmap, and communicate security vision to business partners and IT staff
-            - Actively participates in Communities of Practice to ensure effective adoption of security and continuous improvement of security efforts
-            - Act as an advocate for security and lead efforts to promote security awareness at all levels of the organizations
-            - Ensure that all risk considerations are identified and addressed with new and modified services
-            - Monitor and enhance secure architecture standards within the Software Development Lifecycle
-            - Identify and establish core architectural mechanisms to enhance the security of services
-            - Support larger architectural projects while leading internal projects
-    - title: Senior Security Architect
-      company: TransUnion
-      year: 2012-2014
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - As a Senior Security Architect at TransUnion I worked to secure enterprise information by determining security requirements; planning, implementing, and testing security systems; preparing security standards, policies, and procedures; mentoring team members.
-            - Performed security assessments for business units seeking to implement updated or new solutions, presented recommendations and findings to the enterprise architectural review board for consideration
-            - Researched and wrote security standards and reference architectures
-            - Developed governance scripts that were used to validate security standard controls and provide compliance metrics
-            - Prepared system security reports by collecting, analyzing, and summarizing data and trends.
-            - Provided mentoring and skills transfer to new/developing security team members
-            - Principal architect & SME for Tripwire Enterprise, Qualys, Symantec Encryption Server (PGP)
-            - Assisted with PCI auditing compliance of systems using Tripwire Enterprise
+        - Description 1.
+        - Description 2.
+
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
@@ -64,50 +61,6 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor of Science (English)
-      institution: Illinois State University
-      year: 1992
-      description:
-        - Focus on technical writing 
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Military Service
-  type: time_table
-  contents:
-    - title: Non-Commissioned Officer, Sergeant (E-5)
-      institution: Illinois Army National Guard
-      year: 1988-1994
-      description:
-        - Successful completion of the Army Primary Leadership Development Course (PLDC) 
-        - Honorable Discharge 
-
- - title: Community
-  type: time_table
-  contents:
-    - title: Adult Leader (Cub/Boy Scouts) 
-      institution: Three Fires Council, Maramech Hill District
-      year: 2003-2019
-    - title: Wood Badge Staff 
-      institution: Three Fires Council, Maramech Hill District
-      year: 2012
-    - title: Wood Badge Participant 
-      institution: Three Fires Council, Maramech Hill District
-      year: 2010   
-              
 - title: Open Source Projects
   type: time_table
   contents:
