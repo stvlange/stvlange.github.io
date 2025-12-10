@@ -94,17 +94,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
       },{id: "post-a-post-with-tabs",
         
           title: "a post with tabs",
@@ -325,17 +314,6 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -358,6 +336,17 @@ ninja.data = [{
             window.location.href = "/blog/2021/diagrams/";
           
         },
+      },{id: "post-strategies-for-combating-cloud-security-risks-hackernoon",
+        
+          title: 'Strategies for Combating Cloud Security Risks | HackerNoon <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "There are some proven operational and security practices to significantly reduce the occurrence and impact of security breaches in the cloud.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://hackernoon.com/strategies-for-combating-cloud-security-risks-vviq35e9", "_blank");
+          
+        },
       },{id: "post-a-distill-style-blog-post",
         
           title: "a distill-style blog post",
@@ -369,6 +358,28 @@ ninja.data = [{
             window.location.href = "/blog/2021/distill/";
           
         },
+      },{id: "post-i-got-back-into-running-despite-my-weight-gain-managing-impact-intensity-was-the-key-to-success",
+        
+          title: 'I got back into running despite my weight gain. Managing impact intensity was... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/better-humans/i-got-back-into-running-despite-my-weight-gain-managing-impact-intensity-was-the-key-to-success-91ba3e9b0362?source=rss-9f0ecfd4aa12------2", "_blank");
+          
+        },
+      },{id: "post-dad-s-empty-nest-dread",
+        
+          title: 'Dad’s Empty Nest Dread <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/the-ascent/dads-empty-nest-dread-be2eedc1d7f7?source=rss-9f0ecfd4aa12------2", "_blank");
+          
+        },
       },{id: "post-a-post-with-twitter",
         
           title: "a post with twitter",
@@ -378,6 +389,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/twitter/";
+          
+        },
+      },{id: "post-keeping-your-motivation-when-you-need-to-lose-over-100-pounds",
+        
+          title: 'Keeping Your Motivation When You Need to Lose Over 100 Pounds <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/better-humans/countdown-to-adventure-one-pound-at-a-time-c8a44f211900?source=rss-9f0ecfd4aa12------2", "_blank");
           
         },
       },{id: "post-a-post-with-disqus-comments",
