@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Stephen L. Lange
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22nd November 1969
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
