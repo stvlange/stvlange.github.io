@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stvlange.github.io/sitemap.xml
+Sitemap: https://stephenlange.org/sitemap.xml
