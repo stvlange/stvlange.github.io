@@ -168,62 +168,62 @@
   ],
   "skills": [
     {
-      "name": "Cloud Security Expertise: Architecting and engineering secure solutions across multi-cloud environments (AWS, GCP), including IAM, security stack integration, and S3/KMS controls.",
+      "name": "Cloud Security Expertise (GCP/AWS)",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Security Architecture & Strategy: Leadership in design, delivery, and roadmap planning for integrated enterprise security solutions and reference architectures.",
+      "name": "Security Architecture & Strategy",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Identity & Access Management (IAM): Expertise in enterprise-level IAM systems, directory services, and least-privilege principles.",
+      "name": "Identity & Access Management (IAM)",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Data & Infrastructure Security: Securing databases, networking, virtualization, and multi-platform operating systems (Windows, AIX, Linux).",
+      "name": "Data & Infrastructure Security",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Security Operations & Risk Management: Threat identification, investigation, risk abatement, auditing, and maintaining system CIA (Confidentiality, Integrity, Availability).",
+      "name": "Security Operations & Risk Management",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Governance, Risk, and Compliance (GRC): Deep knowledge and application of regulatory frameworks (HIPAA, RegSCI) and standards (NIST, CIS).",
+      "name": "Governance, Risk, and Compliance (GRC)",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Security Stack Management: Implementation and optimization of core security technologies (IDS/IPS, SIEM, Firewalls).",
+      "name": "Security Stack Management",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Infrastructure Automation: Leveraging Infrastructure as Code (IaC) for consistent, scalable, and secure environment deployment.",
+      "name": "Cloud Infrastructure Automation Security Policies",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Cross-Functional Leadership: Directing and consulting cross-functional teams, managing technical resources, and serving as a security liaison to key business stakeholders.",
+      "name": "Cross-Functional Leadership",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Technical Supervision & Mentorship: Hands-on leadership, mentoring junior team members, and elevating team-wide technical expertise.",
+      "name": "Technical Supervision & Mentorship",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Strategic Decision-Making: Driving demand management, translating business needs into targeted security solutions, and making high-stakes operational and strategic choices.",
+      "name": "Strategic Decision-Making",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Resource Management: Proven ability to manage teams (8-10 personnel), budgets, and operational readiness for critical infrastructure.",
+      "name": "Resource Management",
       "level": "",
       "keywords": []
     }
