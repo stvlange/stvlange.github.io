@@ -4,7 +4,7 @@
     "label": "Security Architect",
     "image": "",
     "email": "stvlange@gmail.com",
-    "phone": "(912) 123-4567",
+    "phone": "(630) 636-8150",
     "url": "https://stephenlange.org",
     "summary": "Security professional with extensive architecture, engineering, administration and management experience. A leader at designing and delivering targeted IT solutions capable of meeting business needs while staying within budgetary & time constraints. A skilled problem solver and decision maker, team player and self-starter with a passion for technology.",
     "location": {
@@ -100,10 +100,8 @@
       "url": "https://illinoisstate.edu/",
       "area": "English",
       "studyType": "BS",
-      "startDate": "1988-08-01",
-      "endDate": "1992-08-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "1988",
+      "endDate": "1992",
     }
   ],
   "military": [
@@ -114,8 +112,8 @@
       "mos": "11B",
       "rank": "Sergeant (E-5)",
       "discharge type": "Honorable",
-      "startDate": "1988-07-01",
-      "endDate": "1994-08-01",
+      "startDate": "1988",
+      "endDate": "1994",
       "courses": ["Army Primary Leadership Development Course (PLDC)"]
     }
   ],
@@ -125,8 +123,8 @@
       "location": "Oswego, Illinois",
       "position": "Adult Leadership Volunteer",
       "url": "https://www.scouting.org/",
-      "startDate": "2007-07-01",
-      "endDate": "2019-07-01",
+      "startDate": "2007",
+      "endDate": "2019",
       "summary": "Volunteered as Den Leader, Cubmaster, Assistanct Cubmaster and Wood Badge Staff member in support of my son over the course of his Scouting journey, concluding when he reached the rank of Eagle Scout."
     }
   ],
@@ -141,12 +139,7 @@
     {
       "name": "Available Upon Request",
       "icon": "fa-solid fa-laptop",
-      "reference": "References will be made available upon request."
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Please email for references."
     }
   ]
 }
