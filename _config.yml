@@ -9,7 +9,7 @@ last_name: Lange
 contact_note: >
   Please use email for questions or comments.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal site of Stephen L. Lange.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Lange]
+  first_name: [Stephen L.]
 
   style: apa
   locale: en
@@ -631,13 +631,10 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
-  - education
   - publications
-  - projects
+  - certifications
+  - education
+  - military
   - volunteer
-  - awards
-  - certificates
-  - skills
   - languages
-  - interests
   - references
