@@ -9,7 +9,6 @@
       value: English
     - name: About
       value: A security professional with extensive security architecture, engineering, administration, and management experience. A leader in designing and delivering targeted IT solutions capable of meeting business needs while staying within budgetary & time constraints. A skilled problem solver and decision-maker, team player, and self-starter with a passion for technology. 
-
 - title: Experience
   type: time_table
   contents:
@@ -27,7 +26,7 @@
             - Actively lead the creation and updating of standards and reference architectures to meet CME regulatory requirements (standards) and provide direction and guidance on proper compliance with these defined standards (reference architectures
             - Performing infrastructure assessments and making design change recommendations that provide risk remediation and proper design, structure, and implementation recommendations. 
             - Assist in planning the remediation of assessment, audit, and regulatory findings
-            - Assisting with demand forecasting for Infrastructure Architecture services by meeting with CME business units to better understand their needs. Aid in the determination of necessary resource levels to support those business units’ needs.
+            - Assisting with demand forecasting for Infrastructure Architecture services by meeting with CME business units to better understand their needs. Aid in the determination of necessary resource levels to support those business units’ needs
             - Communicate and collaborate with cross-functional peers outside of the Technology Division, including General Counsel, Records Retention, Global Assurance, Enterprise Risk Management, Third-Party Risk Management, and other business unit leadership
             - Drive objectivity and build consensus among internal and external stakeholders with widely divergent perspectives and drivers
             - Interact with industry peers from other systemically important financial market utility (SIFMU) organizations, research organizations, solution providers, etc.
@@ -40,9 +39,18 @@
             - Monitor and enhance secure architecture standards within the Software Development Lifecycle
             - Identify and establish core architectural mechanisms to enhance the security of services
             - Support larger architectural projects while leading internal projects
-
-
-
+    - title: Senior Security Architect
+      company: TransUnion
+      year: 2012-2014
+      description:
+        - As a Senior Security Architect at TransUnion I worked to secure enterprise information by determining security requirements; planning, implementing, and testing security systems; preparing security standards, policies, and procedures; mentoring team members.
+            - Performed security assessments for business units seeking to implement updated or new solutions, presented recommendations and findings to the enterprise architectural review board for consideration
+            - Researched and wrote security standards and reference architectures
+            - Developed governance scripts that were used to validate security standard controls and provide compliance metrics
+            - Prepared system security reports by collecting, analyzing, and summarizing data and trends.
+            - Provided mentoring and skills transfer to new/developing security team members
+            - Principal architect & SME for Tripwire Enterprise, Qualys, Symantec Encryption Server (PGP)
+            - Assisted with PCI auditing compliance of systems using Tripwire Enterprise
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
