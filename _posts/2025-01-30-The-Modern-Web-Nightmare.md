@@ -7,6 +7,7 @@ tags: comments
 categories: gopher reflection internet 
 giscus_comments: true
 related_posts: false
+citation: true
 ---
 
 Browsing the Web today feels like an exercise in futility. Readers are almost always under the constant assault of advertisements.
@@ -23,7 +24,7 @@ The effect of which on browsing from a phone can often times be exponentially wo
 
 I find myself wondering if the decision to ruin a web page with advertisements it ever really worth it for the vast majority of people publishing content on the web. Is it making these people rich? In most cases I imagine it isn't.
 
-The saying "to each his own"{% sidenote "sidenote-1" '"Suum cuique" or "Unicuique suum", is a Latin phrase often translated as "to each his own" or "may all get their due." Suum cuique has been significant in the history of philosophy and as a motto. (<a href="https://en.wikipedia.org/wiki/Suum_cuique#:~:text=The%20Latin%20phrase%20relates%20to,1%2C3%2D4">LINK</a>)' %} aptly applies in this situation of course, but it's exhausting for the reader, your intended audience.
+The saying "to each his own" aptly applies in this situation of course, but it's exhausting for the reader, your intended audience.
 
 Recently I rekindled my interest in a truly ancient internet technology called "gopher". 
 
@@ -31,11 +32,9 @@ Recently I rekindled my interest in a truly ancient internet technology called "
 
 In short, Gopher was the precursor to the modern web that everyone knows today. 
 
-It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site{% sidenote "sidenote-2" 'See Floodgap Gopher Server Web Interface (<a href="https://gopher.floodgap.com/gopher/gw.lite">LINK</a>)' %} that bridges the gap between the web and gopher.
+It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
 
-Gopher was created by a team led by Mark P. McCahill at the University of Minnesota.
-
-{% epigraph ' "The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web."' 'Wikipedia' '<a href="https://en.wikipedia.org/wiki/Gopher_(protocol)">LINK</a>' %}
+According to Wikipedia, Gopher was created by a team led by Mark P. McCahill at the University of Minnesota. The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web.
 
 The effect, is unlikely anything you experience with the modern web, especially so if you browse gopher sites using a terminal and keyboard. But even if you are using a website to browse gopher sites, the experience is blissfully advertisement free.
 
