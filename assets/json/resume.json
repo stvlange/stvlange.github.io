@@ -62,21 +62,21 @@
   ],
   "certifications": [
     {
-      "name": "GIAC Certified Intrusion Analyst (Expired)",
+      "name": "GIAC Certified Intrusion Analyst",
       "date": "2017",
       "issuer": "SANS",
       "url": "https://www.giac.org/certifications/certified-intrusion-analyst-gcia/",
       "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "GIAC Certified Incident Handler (Expired)",
+      "name": "GIAC Certified Incident Handler",
       "date": "2016",
       "issuer": "SANS",
       "url": "https://www.giac.org/certification/certified-incident-handler-gcih",
       "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "GIAC Security Essentials (Expired)",
+      "name": "GIAC Security Essentials",
       "date": "2012",
       "issuer": "SANS",
       "url": "https://www.giac.org/certification/security-essentials-gsec",
@@ -112,12 +112,11 @@
   ],
   "military": [
     {
-      "branch": "Illinois Army National Guard",
+      "institution": "Illinois Army National Guard",
       "location": "Elgin, Illinois",
       "url": "https://www.il.ngb.army.mil/Organizations/Army-National-Guard/",
-      "mos": "11B",
-      "rank": "Sergeant (E-5)",
-      "discharge": "Honorable",
+      "area": "MOS: 11B",
+      "studyType": "Sergeant (E-5)<br><br>Honorable Discharge",
       "startDate": "1988",
       "endDate": "1994",
       "courses": "Army Primary Leadership Development Course (PLDC)"
