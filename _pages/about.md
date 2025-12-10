@@ -25,10 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Work: Security professional with extensive architecture, engineering, administration and management experience. A leader at designing and delivering targeted IT solutions capable of meeting business needs while staying within budgetary & time constraints. A skilled
+### Work: 
+Security professional with extensive architecture, engineering, administration and management experience. A leader at designing and delivering targeted IT solutions capable of meeting business needs while staying within budgetary & time constraints. A skilled
 problem solver and decision maker, team player and self-starter with a passion for technology.
 
-Specialties: Security Architecture, Privacy/Security Compliance, Project Management, Risk Analysis/Penetration testing, Intrusion Detection, Disaster Recovery/Business Impact Analysis, Budget Forecasting, Capital Management, Research, Team Development, Cloud solutions (AWS/GCP).
+### Current Focus: 
+Security Architecture, Privacy/Security Compliance, Risk Analysis, Disaster Recovery/Business Impact Analysis, Cloud Security (AWS/GCP).
  
-Life: Married to a living saint who puts up with my crazy ideas and hobbies. A proud and dedicated Father of two. An avid reader and outdoor enthusiast happy to hike through the woods, and even happier spending time on the water relaxing. 
+### Life: 
+Married to a living saint who puts up with my crazy ideas and hobbies. A proud and dedicated Father of two. An avid reader and outdoor enthusiast happy to hike through the woods, and even happier spending time on the water relaxing. 
 
