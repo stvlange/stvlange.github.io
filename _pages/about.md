@@ -8,8 +8,8 @@ profile:
   align: right
   image: stephen_lange_square.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>stvlange@gmail.com</p>
+  more_info: #>
+    #<p>stvlange@gmail.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
