@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>stvlange@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -25,13 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-#### Work: 
+### work 
 Security professional with extensive architecture, engineering, administration and management experience. A leader at designing and delivering targeted IT solutions capable of meeting business needs while staying within budgetary & time constraints. A skilled
 problem solver and decision maker, team player and self-starter with a passion for technology.
 
-#### Current Focus: 
-Security Architecture, Privacy/Security Compliance, Risk Analysis, Disaster Recovery/Business Impact Analysis, Cloud Security (AWS/GCP).
+### current focus 
+Security Architecture, Privacy/Security Compliance, Risk Analysis, Disaster Recovery/Business Impact Analysis, Cloud Security (GCP)
  
-#### Life: 
-Married to a living saint who puts up with my crazy ideas and hobbies. A proud and dedicated Father of two. An avid reader and outdoor enthusiast happy to hike through the woods, and even happier spending time on the water relaxing. 
+### life 
+Happily married to a saint of a wife who puts up with my crazy ideas and hobbies. A proud and dedicated Father of two. An avid reader and outdoor enthusiast happy to hike through the woods, and even happier spending time on the water relaxing. 
 
