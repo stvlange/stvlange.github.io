@@ -1,44 +1,131 @@
 ---
-layout: post
+layout: distill
 title: The Modern Web Nightmare
-date: 2025-01-30 19:25:00-0600
-description: An exploration of the modern nightmare that web browsing has become
-tags: gopher web
-categories: technology 
+description: My opinion of the modern web experience and the simpler days of Gopher
+tags: distill formatting
 giscus_comments: true
-related_posts: true
-citation: true
+date: 2025-01-30
+featured: true
+mermaid:
+  enabled: false
+  zoomable: true
+code_diff: false
+map: false
+chart:
+  chartjs: false
+  echarts: false
+  vega_lite: false
+tikzjax: false
+typograms: false
+
+authors:
+  - name: Stephen Lange
+    url: "https://stephenlange.org"
+
+toc:
+  - name: Modern Problems
+  - name: Is Monetization Worth It?
+  - name: Gopher... What?
+  - name: AI Alternative?
+  - name: Conclusion
 ---
 
-Browsing the Web today feels like an exercise in futility. Readers are almost always under the constant assault of advertisements.
+## Modern Problems
+I don't consider what I am about to say as sensational, to be honest I really wish it *was* just me trying to be dramatic. I find that I have a growing aversion to using my web browser to browse the web. Browsing the Web today feels like an exercise in futility, especially so when done from my phone. I can't help but feel like I am under a constant assault be advertisements.
 
-Don't get me wrong, the web has always been filled with examples of annoyance. Anyone who suffered through the early days of the web will recall (possibly with some nostalgic *fondness*) the days of blinking red text, under construction warnings and let's just say "Geocities" and leave it at that.
+Don't get me wrong, the web has always been filled with its fair share of annoyances. Anyone who suffered through the early days of the web will recall (possibly with some nostalgic *fondness*) the days of blinking red text, under construction warnings, dancing babies and many other excentricities. I would be amiss if I didn't at least mention "Geocities" and leave it at that.
 
-But today, people's monetization efforts have transformed the typical web browsing experience into an ad filled nightmare that just seems to be getting worse.
+But today it's a different experience that really seems to be getting progressively worse. Corporate and individual monetization efforts have transformed the typical web browsing experience into what I would have to describe as an advertisement filled nightmare.
 
-If it was just static advertisements, I might feel less vitriol towards the entire situation. Its the various types of pop-up advertisement techniques designed to maximize the readers focus not on the content, but on the advertisement that drives me really insane.
+If it was just static advertisements, I might feel less anger towards the entire situation. Those could be largely ignored. But static ads are old-web. That's just not **in your face** enough. And so the pop-up advertisement was born.
 
-Click this miniscule "X" to close this ad. Sure. Nine times out of ten the "X" is either too small, taking you out of the page, or it's not designed to actually close the ad at all leading one on more unexpected jumps and journeys.
+With the goal of maximizing the readers focus not on the advertisment, these in your face scourges are very often impossible to close without forcing the reader away from the content they want to read over to the context the advertiser wants you to buy.
 
-The effect of which on browsing from a phone can often times be exponentially worse than a desktop. 
+Click this miniscule "X" to close this ad. Sure. Nine times out of ten the "X" is either too small, taking you out of the page, or it's not designed to actually close the ad at all leading one on more unexpected jumps and journeys. And this problem is even worse on your phone where everything is smaller.
 
-I find myself wondering if the decision to ruin a web page with advertisements it ever really worth it for the vast majority of people publishing content on the web. Is it making these people rich? In most cases I imagine it isn't.
+## Is Monetization Worth It?
+I find myself wondering if the decision to ruin a web page with advertisements it ever really worth it for the vast majority of people publishing content on the web. Is it making these people rich? In most cases I imagine it isn't because revenue from advertisement is driven by traffic to the page.
 
-The saying "to each his own" aptly applies in this situation of course, but it's exhausting for the reader, your intended audience.
+Pages with large followings (corporate or influencer) I am sure make decent money from advertisements and people grin and bear it because they have to to gain access to whatever the subject of their desire happens to be. But to someone just starting out or with a small following it simply becomes a detractor. It certainly makes me less likely to return.
 
-Recently I rekindled my interest in a truly ancient internet technology called "gopher". 
+The saying "to each his own" aptly applies in this situation of course, but it's exhausting for the reader, the intended audience. Yet people go down the monetization rabbit hole all the time in their attempts to be an entrepreneur. I won't ever have advertisements here for two reasons:
+- *I hate them.* Pretty straight forward, if I had advertisements and pop-ups here I would hate the site and never want to visit it, what would the point be then?
+- *I have full time work.* I'm not looking to be my own boss. I enjoy working in a team in a corporate environment on projects that I am passionate about. What about when I retire you might ask. Nope, see point #1.
 
-## So what is Gopher?
+## Gopher... What?
+Recently I rekindled my interest in a truly ancient internet technology called "gopher". Gopher was the precursor to the modern web that everyone knows today. It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
 
-In short, Gopher was the precursor to the modern web that everyone knows today. 
+According to Wikipedia<d-cite key="wikipedia_gopher"></d-cite>, Gopher was created by a team led by Mark P. McCahill at the University of Minnesota. The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web.
 
-It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
+The gopher experience is radically different that the modern web experience. Content is organized in text based menus and displayed without any pomp and circumstance outside of the occasional ue of ascii art (another lost treasure of the web).
 
-According to Wikipedia, Gopher was created by a team led by Mark P. McCahill at the University of Minnesota. The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web.
+What sets it apart is that it is blissfully advertisement free. I can't recall ever seeing any type of advertisement, certainly not when using a terminal to browse gopher. Pop-ups? Not a problem, or if there is some kind of pop out it is easily closed by hitting the escape key. 
 
-The effect, is unlikely anything you experience with the modern web, especially so if you browse gopher sites using a terminal and keyboard. But even if you are using a website to browse gopher sites, the experience is blissfully advertisement free.
+What you see is what you get which is refreshing beyond belief. And as someone who has authored his own gopher pages in the past, it couldn't be simpler. All of your effort goes into the content text (with maybe some ASCII art thrown in for good measure). 
 
-What you see is what you get which is refreshing beyond belief.  And as someone who has authored his own gopher pages in the past, it couldn't be simpler. All of your effort goes into the content text (with maybe some ASCII art thrown in for good measure). 
+Archaic? Maybe. But something I encourage people to check out when they have some time. And to some extent, a throwback that makes me yearn for the past when we were largely devoid of advertisements.
 
-Archaic? Maybe. But something I encourage people to check out when they have some time.
+## AI Alternative?
+Is there an AI alternative we might consider. Artificial Intelligence, the buzz word that is everywhere, the technology that promotes the stars and sometimes delivering. Could AI help us with the problem of advertisements on web pages? 
+
+Turns out that the answer is yes. Feeding Gemini the following prompt:
+>"I am looking for the most popular allrecipes.com pancake recipe. Render a version of that page without advertisements or pop up distractions."
+
+Generated:
+Based on Allrecipes.com data, the "Good Old-Fashioned Pancakes" recipe is the most popular pancake recipe on the site. It is currently the most-reviewed recipe of all time on Allrecipes, with over 16,000 reviews and nearly 20,000 ratings averaging 4.6 stars.
+
+Here is the distraction-free version of the page:
+
+Good Old-Fashioned Pancakes
+Submitted by: Dakota Kelly | Updated: August 14, 2025 Rating: ★★★★★ 4.6 (19,974 Ratings)
+
+"I found this pancake recipe in my Grandma's recipe book. Judging from the weathered look of this recipe card, this was a family favorite."
+
+Recipe Overview
+- Prep Time: 5 mins
+- Cook Time: 15 mins
+- Total Time: 20 mins
+- Servings: 8
+- Yield: 8 pancakes
+
+Ingredients
+- 1 ½ cups all-purpose flour
+- 3 ½ teaspoons baking powder
+- 1 tablespoon white sugar
+- ¼ teaspoon salt (or more to taste)
+- 1 ¼ cups milk
+- 3 tablespoons butter, melted
+- 1 large egg
+
+Directions
+- Sift Dry Ingredients: In a large bowl, sift together the flour, baking powder, sugar, and salt.
+- Make the Batter: Make a well in the center of the flour mixture. Pour in the milk, melted butter, and egg. Mix until smooth.
+- Heat the Pan: Heat a lightly oiled griddle or frying pan over medium-high heat.
+- Cook: Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Cook for about 2 to 3 minutes, or until bubbles form on the surface and the edges look dry.
+- Flip & Finish: Flip the pancakes and cook until browned on the other side. Repeat with any remaining batter.
+- Serve: Serve hot with your favorite toppings.
+
+Kitchen Notes & Tips
+- When to Flip: Watch for bubbles forming on top and the edges setting (drying out). This usually happens after 2-3 minutes.
+- Storage: Leftovers can be stored in an airtight container in the fridge for up to a week.
+- Freezing:
+  - Cooked: Cool completely, flash freeze in a single layer, then transfer to a freezer bag. Reheat in a 350°F oven.
+  - Batter: Freeze in serving-size portions in freezer bags for up to one month. Thaw in the fridge overnight.
+
+Community Tweaks: 
+- Many reviewers suggest adding a splash of vanilla extract or a dash of cinnamon for extra flavor. For fluffier pancakes, ensure you do not overmix the batter; small lumps are acceptable.
+
+Nutrition Facts (Per Serving)
+- Calories: 158
+- Fat: 6g (3g Saturated)
+- Carbs: 22g (4g Sugar, 1g Fiber)
+- Protein: 5g
+- Sodium: 504mg
+
+Wow, assuming Gemini didn't hallucinate in its reply this is a significanlty less painful experience than using the actual website. No popups, clean and to the point. No unexpected page refreshes due to some poorly designed javascript/etc. re-loading etc. I would be so bold as to say the experience is head and shoulders *better* than going to the actual site.
+
+---
+
+## Conclusion
+I don't know what the solution is to this growing problem that monetization has forced upon the web. On one hand the knowledge that is at my fingertips is enticing. But that enthusiasm gets tempered by the dred of what I know I am likely to encounter when I venture out. What is the solution? I am not sure if there is one definitive solution, but I will continue to explore the options. 
 
