@@ -95,6 +95,68 @@
       ]
     }
   ],
+    "skills": [
+    {
+      "name": "Cloud Security Expertise (GCP/AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security Architecture & Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Identity & Access Management (IAM)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data & Infrastructure Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security Operations & Risk Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Governance, Risk, and Compliance (GRC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security Stack Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Infrastructure Automation Security Policies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cross-Functional Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Technical Supervision & Mentorship",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Decision-Making",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Resource Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
   "certificates": [
     {
       "name": "Six Sigma White Belt",
@@ -164,68 +226,6 @@
       "name": "Available Upon Request",
       "icon": "fa-solid fa-laptop",
       "reference": "Please email for references."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Cloud Security Expertise (GCP/AWS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Security Architecture & Strategy",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Identity & Access Management (IAM)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Data & Infrastructure Security",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Security Operations & Risk Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Governance, Risk, and Compliance (GRC)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Security Stack Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cloud Infrastructure Automation Security Policies",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cross-Functional Leadership",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Technical Supervision & Mentorship",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Strategic Decision-Making",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Resource Management",
-      "level": "",
-      "keywords": []
     }
   ]
 }
