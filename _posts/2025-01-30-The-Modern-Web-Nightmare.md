@@ -30,7 +30,7 @@ toc:
   - name: Gopher... What?
   - name: AI Alternative?
   - name: Conclusion
-
+---
 ## Modern Problems
 I don't consider what I am about to say as sensational, to be honest I really wish it *was* just me trying to be dramatic. I find that I have a growing aversion to using my web browser to browse the web. Browsing the Web today feels like an exercise in futility, especially so when done from my phone. I can't help but feel like I am under a constant assault be advertisements.
 
