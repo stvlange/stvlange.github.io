@@ -32,7 +32,6 @@ toc:
   - name: Conclusion
 
 ---
-
 ## Modern Problems
 I don't consider what I am about to say as sensational, to be honest I really wish it *was* just me trying to be dramatic. I find that I have a growing aversion to using my web browser to browse the web. Browsing the Web today feels like an exercise in futility, especially so when done from my phone. I can't help but feel like I am under a constant assault be advertisements.
 
@@ -47,7 +46,6 @@ With the goal of maximizing the readers focus not on the advertisment, these in 
 Click this miniscule "X" to close this ad. Sure. Nine times out of ten the "X" is either too small, taking you out of the page, or it's not designed to actually close the ad at all leading one on more unexpected jumps and journeys. And this problem is even worse on your phone where everything is smaller.
 
 ---
-
 ## Is Monetization Worth It?
 I find myself wondering if the decision to ruin a web page with advertisements it ever really worth it for the vast majority of people publishing content on the web. Is it making these people rich? In most cases I imagine it isn't because revenue from advertisement is driven by traffic to the page.
 
@@ -58,7 +56,6 @@ The saying "to each his own" aptly applies in this situation of course, but it's
 - *I have full time work.* I'm not looking to be my own boss. I enjoy working in a team in a corporate environment on projects that I am passionate about. What about when I retire you might ask. Nope, see point #1.
 
 ---
-
 ## Gopher... What?
 Recently I rekindled my interest in a truly ancient internet technology called "gopher". Gopher was the precursor to the modern web that everyone knows today. It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
 <aside>
@@ -67,7 +64,6 @@ Recently I rekindled my interest in a truly ancient internet technology called "
     The Gopher text based experience.
   </p>
 </aside>
-
 According to Wikipedia<d-footnote>https://en.wikipedia.org/wiki/Gopher_(protocol)</d-footnote>, Gopher was created by a team led by Mark P. McCahill at the University of Minnesota. The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web.
 
 The gopher experience is radically different that the modern web experience. Content is organized in text based menus and displayed without any pomp and circumstance outside of the occasional ue of ascii art (another lost treasure of the web).
@@ -79,7 +75,6 @@ What you see is what you get which is refreshing beyond belief. And as someone w
 Archaic? Maybe. But something I encourage people to check out when they have some time. And to some extent, a throwback that makes me yearn for the past when we were largely devoid of advertisements.
 
 ---
-
 ## AI Alternative?
 Is there an AI alternative we might consider. Artificial Intelligence, the buzz word that is everywhere, the technology that promotes the stars and sometimes delivering. Could AI help us with the problem of advertisements on web pages? 
 
@@ -140,6 +135,5 @@ Submitted by: Dakota Kelly | Updated: August 14, 2025 Rating: ★★★★★ 4.
 Wow, assuming Gemini didn't hallucinate in its reply this is a significanlty less painful experience than using the actual website. No popups, clean and to the point. No unexpected page refreshes due to some poorly designed javascript/etc. re-loading etc. I would be so bold as to say the experience is head and shoulders *better* than going to the actual site.
 
 ---
-
 ## Conclusion
 I don't know what the solution is to this growing problem that monetization has forced upon the web. On one hand the knowledge that is at my fingertips is enticing. But that enthusiasm gets tempered by the dred of what I know I am likely to encounter when I venture out. What is the solution? I am not sure if there is one definitive solution, but I will continue to explore the options. 
