@@ -58,6 +58,8 @@ The saying "to each his own" aptly applies in this situation of course, but it's
 ---
 ## Gopher... What?
 Recently I rekindled my interest in a truly ancient internet technology called "gopher". Gopher was the precursor to the modern web that everyone knows today. It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
+
+![alt text](https://stephenlange.org/assets/img/gopher.png "The Gopher Experience")
 <aside>
   {% include figure.liquid loading="eager" path="assets/img/gopher.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   <p>
