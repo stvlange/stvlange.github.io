@@ -124,12 +124,10 @@ disqus_shortname:  # put your disqus shortname
 external_sources:
   - name: Stories by Stephen Lange on Medium
     rss_url: https://medium.com/@Stephen.Lange/feed
-    category: external-sources
   - name: Hackermoon
     posts:
       - url: https://hackernoon.com/strategies-for-combating-cloud-security-risks-vviq35e9
         published_date: 2021-06-23
-        category: external-sources
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -260,7 +258,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["web"] # these tags will be displayed on the front page of your blog
-display_categories: ["opinion", "technology", "external-sources"] # these categories will be displayed on the front page of your blog
+display_categories: ["opinion", "technology"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
