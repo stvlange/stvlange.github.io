@@ -3,10 +3,10 @@ layout: post
 title: The Modern Web Nightmare
 date: 2025-01-30 19:25:00-0600
 description: An exploration of the modern nightmare that web browsing has become
-tags: comments
-categories: gopher reflection internet 
+tags: gopher web
+categories: technology 
 giscus_comments: true
-related_posts: false
+related_posts: true
 citation: true
 ---
 
