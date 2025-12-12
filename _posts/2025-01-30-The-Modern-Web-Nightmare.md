@@ -22,14 +22,14 @@ typograms: false
 authors:
   - name: Stephen Lange
     url: "https://stephenlange.org"
-
+    affiliations:
+      name: N/A
 toc:
   - name: Modern Problems
   - name: Is Monetization Worth It?
   - name: Gopher... What?
   - name: AI Alternative?
   - name: Conclusion
----
 
 ## Modern Problems
 I don't consider what I am about to say as sensational, to be honest I really wish it *was* just me trying to be dramatic. I find that I have a growing aversion to using my web browser to browse the web. Browsing the Web today feels like an exercise in futility, especially so when done from my phone. I can't help but feel like I am under a constant assault be advertisements.
@@ -56,7 +56,7 @@ The saying "to each his own" aptly applies in this situation of course, but it's
 ## Gopher... What?
 Recently I rekindled my interest in a truly ancient internet technology called "gopher". Gopher was the precursor to the modern web that everyone knows today. It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
 
-According to Wikipedia<d-cite key="wikipedia_gopher"></d-cite>, Gopher was created by a team led by Mark P. McCahill at the University of Minnesota. The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web.
+According to Wikipedia<d-footnote>https://en.wikipedia.org/wiki/Gopher_(protocol)</d-footnote>, Gopher was created by a team led by Mark P. McCahill at the University of Minnesota. The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web.
 
 The gopher experience is radically different that the modern web experience. Content is organized in text based menus and displayed without any pomp and circumstance outside of the occasional ue of ascii art (another lost treasure of the web).
 
@@ -72,24 +72,24 @@ Is there an AI alternative we might consider. Artificial Intelligence, the buzz 
 Turns out that the answer is yes. Feeding Gemini the following prompt:
 >"I am looking for the most popular allrecipes.com pancake recipe. Render a version of that page without advertisements or pop up distractions."
 
-Generated:
+**Generated:**
 Based on Allrecipes.com data, the "Good Old-Fashioned Pancakes" recipe is the most popular pancake recipe on the site. It is currently the most-reviewed recipe of all time on Allrecipes, with over 16,000 reviews and nearly 20,000 ratings averaging 4.6 stars.
 
 Here is the distraction-free version of the page:
 
-Good Old-Fashioned Pancakes
+**Good Old-Fashioned Pancakes**
 Submitted by: Dakota Kelly | Updated: August 14, 2025 Rating: ★★★★★ 4.6 (19,974 Ratings)
 
 "I found this pancake recipe in my Grandma's recipe book. Judging from the weathered look of this recipe card, this was a family favorite."
 
-Recipe Overview
+**Recipe Overview**
 - Prep Time: 5 mins
 - Cook Time: 15 mins
 - Total Time: 20 mins
 - Servings: 8
 - Yield: 8 pancakes
 
-Ingredients
+**Ingredients**
 - 1 ½ cups all-purpose flour
 - 3 ½ teaspoons baking powder
 - 1 tablespoon white sugar
@@ -98,7 +98,7 @@ Ingredients
 - 3 tablespoons butter, melted
 - 1 large egg
 
-Directions
+**Directions**
 - Sift Dry Ingredients: In a large bowl, sift together the flour, baking powder, sugar, and salt.
 - Make the Batter: Make a well in the center of the flour mixture. Pour in the milk, melted butter, and egg. Mix until smooth.
 - Heat the Pan: Heat a lightly oiled griddle or frying pan over medium-high heat.
@@ -106,17 +106,17 @@ Directions
 - Flip & Finish: Flip the pancakes and cook until browned on the other side. Repeat with any remaining batter.
 - Serve: Serve hot with your favorite toppings.
 
-Kitchen Notes & Tips
+**Kitchen Notes & Tips**
 - When to Flip: Watch for bubbles forming on top and the edges setting (drying out). This usually happens after 2-3 minutes.
 - Storage: Leftovers can be stored in an airtight container in the fridge for up to a week.
 - Freezing:
   - Cooked: Cool completely, flash freeze in a single layer, then transfer to a freezer bag. Reheat in a 350°F oven.
   - Batter: Freeze in serving-size portions in freezer bags for up to one month. Thaw in the fridge overnight.
 
-Community Tweaks: 
+**Community Tweaks:** 
 - Many reviewers suggest adding a splash of vanilla extract or a dash of cinnamon for extra flavor. For fluffier pancakes, ensure you do not overmix the batter; small lumps are acceptable.
 
-Nutrition Facts (Per Serving)
+**Nutrition Facts (Per Serving)**
 - Calories: 158
 - Fat: 6g (3g Saturated)
 - Carbs: 22g (4g Sugar, 1g Fiber)
@@ -125,8 +125,5 @@ Nutrition Facts (Per Serving)
 
 Wow, assuming Gemini didn't hallucinate in its reply this is a significanlty less painful experience than using the actual website. No popups, clean and to the point. No unexpected page refreshes due to some poorly designed javascript/etc. re-loading etc. I would be so bold as to say the experience is head and shoulders *better* than going to the actual site.
 
----
-
 ## Conclusion
 I don't know what the solution is to this growing problem that monetization has forced upon the web. On one hand the knowledge that is at my fingertips is enticing. But that enthusiasm gets tempered by the dred of what I know I am likely to encounter when I venture out. What is the solution? I am not sure if there is one definitive solution, but I will continue to explore the options. 
-
