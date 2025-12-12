@@ -5,8 +5,8 @@ description: My opinion of the modern web experience and the simpler days of Gop
 categories: technology
 tags: web gopher ai monetization
 giscus_comments: true
-date: 2025-01-30
-featured: true
+date: 2025-12-07
+featured: false
 mermaid:
   enabled: false
   zoomable: false
@@ -54,8 +54,7 @@ The saying "to each his own" aptly applies in this situation of course, but it's
 - *I have full time work.* I'm not looking to be my own boss. I enjoy working in a team in a corporate environment on projects that I am passionate about. What about when I retire you might ask. Nope, see point #1.
 
 ## Gopher... What?
-Recently I rekindled my interest in a truly ancient internet technology called "gopher". Gopher was the precursor to the modern web that everyone knows today. It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
-<aside>{% include figure.liquid loading="eager" path="assets/img/gopher.png" class="img-fluid rounded z-depth-1" zoomable=true %}</aside>
+Recently I rekindled my interest in a truly ancient internet technology called "gopher". Gopher was the precursor to the modern web that everyone knows today. It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.<aside>{% include figure.liquid loading="eager" path="assets/img/gopher.png" class="img-fluid rounded z-depth-1" zoomable=true %}</aside>
 
 According to Wikipedia<d-footnote>https://en.wikipedia.org/wiki/Gopher_(protocol)</d-footnote>, Gopher was created by a team led by Mark P. McCahill at the University of Minnesota. The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web.
 
