@@ -60,7 +60,7 @@ The saying "to each his own" aptly applies in this situation of course, but it's
 ---
 
 ## Gopher... What?
-<aside> {% include figure.liquid loading="eager" path="assets/img/gopher.png" class="img-fluid rounded z-depth-1" zoomable=true %} <p>The Gopher Experience</p> </aside>Recently I rekindled my interest in a truly ancient internet technology called "gopher". Gopher was the precursor to the modern web that everyone knows today. It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
+Recently I rekindled my interest in a truly ancient internet technology called "gopher". Gopher was the precursor to the modern web that everyone knows today. <aside> {% include figure.liquid loading="eager" path="assets/img/gopher.png" class="img-fluid rounded z-depth-1" zoomable=true %} <p>The Gopher Experience</p> </aside>It is in many ways a text based "web page" that can be browsed using the gopher protocol or via a conventional web browser using a site that bridges the gap between the web and gopher.
 
 According to Wikipedia<d-footnote>https://en.wikipedia.org/wiki/Gopher_(protocol)</d-footnote>, Gopher was created by a team led by Mark P. McCahill at the University of Minnesota. The design of the Gopher protocol and user interface is menu-driven, and presented an alternative to the World Wide Web in its early stages, but ultimately fell into disfavor, yielding to Hypertext Transfer Protocol (HTTP). The Gopher ecosystem is often regarded as the effective predecessor of the World Wide Web.
 
