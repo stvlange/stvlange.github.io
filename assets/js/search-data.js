@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "The Modern Web Nightmare",
         
-        description: "My opinion of the modern web experience and the simpler days of Gopher",
+        description: "",
         section: "Posts",
         handler: () => {
           
