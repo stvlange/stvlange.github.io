@@ -2,13 +2,14 @@
 layout: distill
 title: The Modern Web Nightmare
 description: My opinion of the modern web experience and the simpler days of Gopher
-tags: distill formatting
+categories: technology
+tags: web gopher ai monetization
 giscus_comments: true
 date: 2025-01-30
 featured: true
 mermaid:
   enabled: false
-  zoomable: true
+  zoomable: false
 code_diff: false
 map: false
 chart:
