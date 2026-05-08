@@ -159,28 +159,34 @@
   ],
   "certificates": [
     {
+      "name": "Information Systems Security Architecture Professional (ISSAP)",
+      "date": "2026",
+      "issuer": "ISC2",
+      "url": "https://www.credly.com/badges/23236d73-0290-4904-a8b3-3258852d9d25/public_url"
+    },
+    {
       "name": "Six Sigma White Belt",
       "date": "2019",
       "issuer": "Six Sigma Council",
-      "url": "https://www.google.com/search?q=six+sigma+white+bet&oq=six+sigma+white+bet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDQyMjlqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8#:~:text=Six%20Sigma%20White%20Belt%20Certification,six%2Dsigma%2Dwhite%2Dbelt%2Dc..."
+      "url": ""
     },
     {
       "name": "GIAC Certified Intrusion Analyst",
       "date": "2017",
       "issuer": "SANS",
-      "url": "https://www.giac.org/certifications/certified-intrusion-analyst-gcia/"
+      "url": "https://www.credly.com/badges/231e480d-fa31-4314-94e3-3efb456d9f38/public_url"
     },
     {
       "name": "GIAC Certified Incident Handler",
       "date": "2016",
       "issuer": "SANS",
-      "url": "https://www.giac.org/certification/certified-incident-handler-gcih"
+      "url": "https://www.credly.com/badges/eaa272da-2c64-4a58-b856-e06e3a1ecbbd/public_url"
     },
     {
       "name": "GIAC Security Essentials",
       "date": "2012",
       "issuer": "SANS",
-      "url": "https://www.giac.org/certification/security-essentials-gsec"
+      "url": "https://www.credly.com/badges/a0cd97b6-66b1-4877-baf4-528b0ecd54a5/public_url"
     }
   ],
   "publications": [
