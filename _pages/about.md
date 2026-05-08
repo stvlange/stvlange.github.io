@@ -25,13 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### work 
+## work 
 Security professional with extensive architecture, engineering, administration and management experience. A leader at designing and delivering targeted IT solutions capable of meeting business needs while staying within budgetary & time constraints. A skilled
 problem solver and decision maker, team player and self-starter with a passion for technology.
 
-### current focus 
+## current focus 
 Security Architecture, Privacy/Security Compliance, Risk Analysis, Disaster Recovery/Business Impact Analysis, Cloud Security (GCP)
  
-### life 
+## life 
 Happily married to a saint of a wife who puts up with my crazy ideas and hobbies. A proud and dedicated Father of two. An avid reader and outdoor enthusiast happy to hike through the woods, and even happier spending time on the water relaxing. 
 
