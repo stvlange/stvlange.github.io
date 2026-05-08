@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Security Architect, Dad, Dude & Dreamer...
+subtitle: Security Architect
 
 profile:
   align: right
